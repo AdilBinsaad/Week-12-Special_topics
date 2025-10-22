@@ -3,10 +3,10 @@
 ![alt text](<Screenshot 2025-10-21 220025.png>)
 
 # Sender
-![alt text](<Screenshot 2025-10-21 225544-1.png>)
+![alt text](image-1.png)
 
 # Receiver
-![alt text](<Screenshot 2025-10-21 222500.png>)
+!![alt text](image.png)
 
 # Two-Way
 ![alt text](<Screenshot 2025-10-21 232654.png>)
